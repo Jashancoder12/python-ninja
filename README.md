@@ -1,2 +1,4 @@
 # python-ninja
-jashanpreet kaur/n jasneet kaur /n IT
+jashanpreet kaur
+jasneet kaur
+ IT
